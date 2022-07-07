@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
-# Tutorial Intro
+# 목차 작성 예정
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
